@@ -1,5 +1,5 @@
 
-<h1> RealTimeBusTrackingExercise </h1>
+<h1> Real Time Bus Tracking Exercise </h1>
 
 ## Description
 This code creates a map that will follows real-time data of the Boston busses. In addition, the code displayes the live location on the data.
